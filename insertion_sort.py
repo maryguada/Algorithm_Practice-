@@ -3,8 +3,8 @@ a_arr = [8, 5, 2, 9, 5, 6, 3]
 
 # O(n^2) Time | O(1) Space
 
-# SOLUTION # 1
-
+#=== SOLUTION 1 ===# 
+#==================#
 
 def insertSort(arr):
     for i in range(1, len(arr)):  # we want to start at index 1
@@ -22,7 +22,8 @@ def swap(i, j, arr):
 
 print(insertSort(a_arr))
 
-# SOLUTION # 2
+#=== SOLUTION 2 ===# 
+#==================#
 
 
 def insSort(arr):
