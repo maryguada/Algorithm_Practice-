@@ -3,7 +3,7 @@ a_arr = [8, 5, 2, 9, 5, 6, 3]
 
 # O(n^2) Time | O(1) Space
 
-# SOLUTION # 2
+# SOLUTION # 1
 
 
 def insertSort(arr):
